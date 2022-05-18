@@ -10,6 +10,11 @@
       "StackName": "amplify-vehiclehistoryapp-dev-210229",
       "StackId": "arn:aws:cloudformation:eu-west-1:158110511110:stack/amplify-vehiclehistoryapp-dev-210229/72f55ba0-d6e5-11ec-a9bf-06bf391cfdf7",
       "AmplifyAppId": "d23zn6rj6121h8"
+    },
+    "categories": {
+      "auth": {
+        "vehiclehistoryappa07e2cdf": {}
+      }
     }
   }
 }
